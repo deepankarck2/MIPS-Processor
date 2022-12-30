@@ -1,6 +1,6 @@
 # MIPS-Processor
 
-In this project, I have designed and implemented components for a 32-bit MIPS processor using VHDL and Xilinx software. 
+In this project, I have designed and implemented the components for a 32-bit MIPS processor using VHDL and Xilinx software. 
 
 # Components
 
