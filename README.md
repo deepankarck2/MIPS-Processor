@@ -2,6 +2,11 @@
 
 In this project, I have designed and implemented the components for a 32-bit MIPS processor using VHDL and Xilinx software. 
 
+# Processor Design:
+
+![image](https://user-images.githubusercontent.com/52084764/210125109-fa56945e-9846-44d1-9119-3c25ffb9ee60.png)
+
+
 # Components
 
 Some of the components required for the design of a CPU are:
