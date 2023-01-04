@@ -6,6 +6,7 @@ In this project, I have designed and implemented the components for a 32-bit MIP
 
 ![image](https://user-images.githubusercontent.com/52084764/210125109-fa56945e-9846-44d1-9119-3c25ffb9ee60.png)
 
+An interesting video on how CPU works: https://youtu.be/cNN_tTXABUA 
 
 # Components
 
