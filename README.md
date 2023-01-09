@@ -25,5 +25,6 @@ The ALU typically performs operations such as addition, subtraction, multiplicat
 
 The ALU receives input from the registers in the processor, performs the specified operation, and stores the result back in a register or memory location. The operation to be performed and the input data are typically specified by the instruction being executed.
 
+
 ## The processor will support the following instructions:
 ![image](https://user-images.githubusercontent.com/52084764/210022863-b27c7176-81b8-4fa6-bc73-da47d57173c6.png)
